@@ -6,7 +6,6 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 		System.out.println("修改后重新提交GitHub测试。");
-		System.out.println("修改后重新提交GitHub测试。");
 	}
 
 }
